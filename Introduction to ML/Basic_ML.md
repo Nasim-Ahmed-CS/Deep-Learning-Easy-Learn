@@ -67,3 +67,7 @@ What should we consider?
   
   </li>
 </ul>
+
+## Seeking Light?
+
+If you are still in darkness, go to the next md file for the light.
