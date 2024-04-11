@@ -27,3 +27,10 @@ Let us categorize them as constants and variables-
 <i>b = Variable</i><br></p>
 <br>
 Feeling awkward? If you cannot, please don't move forward. You need to run miles before.
+<br>Ohhh! You are still here? Okay. Let's go...<br>
+Basically, in machine learning, the values of <b><i>y</i></b> and <b><i>x</i></b> are given. That is, the values of features (x) and their corresponding targets (y) are given. If not, this is not machine learning.
+<br>
+So what? What should we do now? What should we do with <b><i>m and b</i></b> in the equation?<br>
+<br>
+<br>Most importantly <b>What the hell is this Machine Learning?</b>
+Okay! Machine learning is to assume the best values of m and b so that the values of y (call it <b><i>y<sub>predicted</sub></i></b>) based on those values and x should fit with the actual values of y (call it <b><i>y<sub>actual</sub></i></b>).
