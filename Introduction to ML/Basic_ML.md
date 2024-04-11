@@ -16,3 +16,14 @@ Here it is,
 <br>
 Here is the geometric picture:
 ![Alt text](https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Images/Straight_line.png?raw=true)
+
+<br>
+<b>Do you know the meaning of all variables and constants present in this picture? Get ready for a Goosebump</b>
+<br>
+Let us categorize them as constants and variables-
+<p align='center'><i>y = Constant</i><br>
+<i>x = Constant</i><br>
+<i>m = Variable</i><br>
+<i>b = Variable</i><br></p>
+<br>
+Feeling awkward? If you cannot, please don't move forward. You need to run miles before.
