@@ -7,9 +7,12 @@ Before we move forward, first of all, we need to get familiar with the name ML. 
   
 You don't need to.
 Let us start with basic high school geometry.
-Can you remember the equation of a straight line? It would be better if you could not...
+Can you remember the equation of a straight line? 
+<br>
+It would be better if you could not...
+<br>
 Here it is,
-`y = mx + b`
+<i><p align='center'>y = mx + b</p></i>
 <br>
 Here is the geometric picture:
-![Alt text](https://www.chilimath.com/wp-content/uploads/2018/05/slope-intercept-form.png)
+![Alt text](https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Images/Straight_line.png?raw=true)
