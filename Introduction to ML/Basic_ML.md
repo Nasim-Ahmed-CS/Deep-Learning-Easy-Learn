@@ -34,3 +34,36 @@ So what? What should we do now? What should we do with <b><i>m and b</i></b> in 
 <br>
 <br>Most importantly <b>What the hell is this Machine Learning?</b>
 Okay! Machine learning is to assume the best values of m and b so that the values of y (call it <b><i>y<sub>predicted</sub></i></b>) based on those values and x should fit with the actual values of y (call it <b><i>y<sub>actual</sub></i></b>).
+
+<b><p align='center'>Can we recap all of this?</p></b>
+What we will be given:
+<br>
+<ul>
+  <li>
+    <b>y<sub>actual</sub></b> = The values for the actual targets
+  </li>
+  <li>
+    <b>x</b> = The values for features
+  </li>
+</ul>
+<br>
+
+What we should calculate:
+<br>
+<ul>
+  <li>
+    <b>y<sub>predicted</sub></b> = The values for the prediction of targets
+  </li>
+</ul>
+
+<br>
+What should we consider?
+<ul>
+  <li>
+    <b>m</b> = Values of slope. (we will continuously update this until we reach the best fit for the <i>y<sub>predicted</sub></i> and <i>y<sub>actual</sub></i>
+  </li>
+  <li>
+    <b>b</b> = Values of y-intercept. (we will continuously update this until we reach the best fit for the <i>y<sub>predicted</sub></i> and <i>y<sub>actual</sub></i>
+  
+  </li>
+</ul>
