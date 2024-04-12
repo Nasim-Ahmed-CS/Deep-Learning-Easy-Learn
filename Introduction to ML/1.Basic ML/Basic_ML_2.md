@@ -20,6 +20,10 @@ If you cannot hold anymore, let's see some weird things...
 > <p align = 'center'><b>m<sub>new</sub> = m<sub>old</sub> - α d/<sub>dm</sub>MSE</b></p>
 and
 > <p align = 'center'><b>b<sub>new</sub> = b<sub>old</sub> - α d/<sub>db</sub>MSE</b></p>
+
+<html>
+  <p align='center'>
 Ohhhooooo!!! What is MSE or α and why they are here?<br>
 Before answering the question, let us see apples...<br>
-![Apples](https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Images/Apples.png)
+    <img src='https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Images/Apples.png'></img>
+</p></html>
