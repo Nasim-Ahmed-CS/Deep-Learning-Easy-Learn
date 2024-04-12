@@ -17,6 +17,8 @@ Here it is,
 Here is its interpretation:
 ![Alt text](https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Images/Straight_line.png?raw=true)
 
+Here is the geometric picture:
+![Straight Line Graph](https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Images/Straight_line1.png?raw=true)
 <br>
 <b>Do you know the meaning of all variables and constants present in this picture? Get ready for a Goosebump</b>
 <br>
