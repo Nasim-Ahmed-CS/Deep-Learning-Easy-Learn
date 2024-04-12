@@ -14,7 +14,7 @@ It would be better if you could not...
 Here it is,
 <i><p align='center'>y = mx + b</p></i>
 <br>
-Here is the geometric picture:
+Here is its interpretation:
 ![Alt text](https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Images/Straight_line.png?raw=true)
 
 <br>
