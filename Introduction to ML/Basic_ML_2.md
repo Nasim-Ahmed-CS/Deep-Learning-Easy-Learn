@@ -8,3 +8,7 @@ and<br>
   >**y<sub>actual</sub> = [1, 4, 9, 16, 25, 36]**
 
 We can easily find a pattern from here, as the values of y<sub>actual</sub> are the square of the values of x. Therefore, by doing this intuition, we can assume the new values of y<sub>actual</sub> for new values of x. For example, the value of y<sub>actual</sub> will be 100, when the value of x is 10.
+But, how we can make the machine learn the pattern on its own? This is where we have to use our so-called equation-
+>**y<sub>actual</sub> = mx + b**
+
+In this equation, the values for y<sub>actual</sub> and x are given. We just need to find the best values of m, and b, so that the values of y<sub>actual</sub> and x fit well.
