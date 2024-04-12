@@ -11,4 +11,7 @@ We can easily find a pattern from here, as the values of y<sub>actual</sub> are 
 But, how we can make the machine learn the pattern on its own? This is where we have to use our so-called equation-
 >**y<sub>actual</sub> = mx + b**
 
-In this equation, the values for y<sub>actual</sub> and x are given. We just need to find the best values of m, and b, so that the values of y<sub>actual</sub> and x fit well.
+In this equation, the values for y<sub>actual</sub> and x are given. We just need to find the best values of m, and b, so that the values of y<sub>actual</sub> and x fit well. Initially, we can assign two random values to m and b. Let, m = 0, and b = 0.
+<br>For the given scenario,<br>
+let us index the arrays from 0.<br>
+x<sub>1</sub> = 1 and y<sub>actual<sub>1</sub></sub> = 1
