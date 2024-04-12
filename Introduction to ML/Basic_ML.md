@@ -70,4 +70,4 @@ What should we consider?
 
 ## Seeking Light?
 
-If you are still in darkness, go to the next md file for the light.
+If you are still in darkness, go to the next md file [Basic_ML_2](https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Basic_ML_2.md) for the light.
