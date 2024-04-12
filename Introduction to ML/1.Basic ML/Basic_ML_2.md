@@ -16,5 +16,7 @@ In this equation, the values for y<sub>actual</sub> and x are given. We just nee
 let us index the arrays from 0.<br>
 x<sub>1</sub> = 1 and y<sub>actual<sub>1</sub></sub> = 1
 # How should we update the values of m and b?
-If you cannot hold anymore, let's see some weired things...
-> <b>m<sub>new</sub> = m<sub>old</sub> - α d/<sub>dm</sub>MSE</b>
+If you cannot hold anymore, let's see some weird things...
+> <p align = 'center'><b>m<sub>new</sub> = m<sub>old</sub> - α d/<sub>dm</sub>MSE</b></p>
+and
+> <p align = 'center'><b>b<sub>new</sub> = b<sub>old</sub> - α d/<sub>db</sub>MSE</b></p>
