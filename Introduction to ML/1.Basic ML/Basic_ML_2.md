@@ -27,3 +27,10 @@ Ohhhooooo!!! What is MSE or α and why they are here?<br>
 Before answering the question, let us see apples...<br>
     <img src='https://github.com/Nasim-Ahmed71/Deep-Learning-Easy-Learn/blob/main/Introduction%20to%20ML/Images/Apples.png'></img>
 </p></html>
+Can you say, which apple is in good condition? Ohhho. Sorry. What are the characteristics of a good apple?<br>
+<b>Characteristics of a fresh apple:</b>
+<ul>
+  <li>Smooth, shiny skin</li>
+  <li>Vibrant, natural colors</li>
+  <li>No bruises, blemishes, or soft spots</li>
+</ul>
