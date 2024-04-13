@@ -39,8 +39,17 @@ Now, answer the question: Which apple in the picture is fresh?
 <u><b>Apple-1:</b></u><br>
 <ul>
   <li>
-    It has Smooth, shiny skin (Score = 1)
+    It has smooth, shiny skin (Score = 1)
   </li>
   <li>It has vibrant, natural colors (Score = 2)</li>
   <li>It has no bruises, blemishes, or soft spots (Score = 3)</li>
 </ul>
+<u><b>Apple-2:</b></u><br>
+<ul>
+  <li>
+    It has not smooth, shiny skin (Score = 0)
+  </li>
+  <li>It has not vibrant, natural colors (Score = 0)</li>
+  <li>It has bruises, blemishes, or soft spots (Score = 0)</li>
+</ul>
+Between the apples, Apple-1 has a maximum score or it has minimum dissimilarities with the characteristics of a fresh apple. Hence, we can say that it is a fresh apple or it is more likely to be a fresh apple than Apple-2.
