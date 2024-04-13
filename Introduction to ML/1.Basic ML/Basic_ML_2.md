@@ -61,3 +61,4 @@ Between the apples, Apple-1 has a maximum score or it has minimum dissimilaritie
 $</p>
 For multiple instances,
 <p align='center'>$MSE = \frac{1}{n} \sum_{i=1}^{n} (Y_{\text{actual}_i} - Y_{\text{predicted}_i})^2$</p>
+Now, we are all set. Let's measure the best values of m and b by our given data in 
