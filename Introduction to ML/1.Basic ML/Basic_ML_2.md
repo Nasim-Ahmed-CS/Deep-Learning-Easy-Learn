@@ -53,3 +53,11 @@ Now, answer the question: Which apple in the picture is fresh?
   <li>It has bruises, blemishes, or soft spots (Score = 0)</li>
 </ul>
 Between the apples, Apple-1 has a maximum score or it has minimum dissimilarities with the characteristics of a fresh apple. Hence, we can say that it is a fresh apple or it is more likely to be a fresh apple than Apple-2.
+
+<br>
+
+> <b>MSE is just like that. It is used to calculate how much a value is deviated from the actual value. MSE stands for Mean Squared Error.</b>
+<p align= 'center'>$MSE = (Y_{\text{actual}_i} - Y_{\text{predicted}_i})^2
+$</p>
+For multiple instances,
+<p align='center'>$MSE = \frac{1}{n} \sum_{i=1}^{n} (Y_{\text{actual}_i} - Y_{\text{predicted}_i})^2$</p>
