@@ -34,3 +34,13 @@ Can you say, which apple is in good condition? Ohhho. Sorry. What are the charac
   <li>Vibrant, natural colors</li>
   <li>No bruises, blemishes, or soft spots</li>
 </ul>
+Now, answer the question: Which apple in the picture is fresh?
+<br>Let us give a score to them by using the characteristics of a fresh apple. If it holds that characteristic then we will give a point 1.<br>
+<u><b>Apple-1:</b></u><br>
+<ul>
+  <li>
+    It has Smooth, shiny skin (Score = 1)
+  </li>
+  <li>It has vibrant, natural colors (Score = 2)</li>
+  <li>It has no bruises, blemishes, or soft spots (Score = 3)</li>
+</ul>
